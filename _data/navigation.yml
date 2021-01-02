@@ -1,0 +1,9 @@
+nav:
+  - title: "About"
+    section: about
+
+  - title: "Services"
+    section: services
+
+  - title: "Contact"
+    section: contact
