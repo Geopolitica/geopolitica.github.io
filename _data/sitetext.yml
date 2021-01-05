@@ -1,36 +1,34 @@
 header:
-    # title: Geopolitica
-    text: Data Science for Geopolitics
-    button: Find Out More
-    buttonlink: "#about" # "#{section}" or "URL/page link"
+  #title: Geopolitica
+  text: Data Engineering Meets Geopolitics
+  button: Find Out More
+  buttonlink: "#about" # "#{section}" or "URL/page link"
 
 about:
-    title: "About The Project"
-    text: "Geopolitica was born out of curiosity and frustration: curiosity to build machine learning for geopolitics, and frustration with how little data existed to do so. The project aims to investigate new forms of measurement in political science that lead to innovative solutions for business and government."
-    section: about
+  title: "About The Project"
+  text: "Geopolitica was born out of curiosity and frustration: curiosity to build machine learning for geopolitics, and frustration with how little good data was available to do so. The project aims to apply modern data engineering techniques to political science, leading to the development of effective & dependable data pipelines for political analysis and machine learning. These developments will lead to innovative solutions for business and government."
+  section: about
 
 services:
-    title: "Expertise"
-    text: "The project currently focuses on three main areas, with more to be added soon."
-    section: services
-    list:
-      - title: "Customized Datasets"
-        desc: "Custom datasets built using web scrapers and APIs"
-        icon: fas fa-table #find more at https://fontawesome.com/icons
-      - title: "Data Visualization"
-        desc: "Visualizing large datasets using cutting-edge techniques"
-        icon: fas fa-globe-americas       
-      - title: "Machine Learning"
-        desc: "Predicting the impact of geopolitical events"
-        icon: "fas fa-brain"
+  title: "Expertise"
+  text: "The project currently focuses on three main areas, with more to be added soon."
+  section: services
+  list:
+    - title: "Customized Datasets"
+      desc: "Custom datasets built using web scrapers and APIs"
+      icon: fas fa-table #find more at https://fontawesome.com/icons
+    - title: "Data Visualization"
+      desc: "Visualizing large datasets using cutting-edge techniques"
+      icon: fas fa-globe-americas
+    - title: "Machine Learning"
+      desc: "Predicting the impact of geopolitical events"
+      icon: "fas fa-brain"
 
 contact:
-    title: "Get in touch"
-    text: "If you'd like to know more, please send a brief message outlining your interest and you'll be contacted shortly."
-    section: contact
-    
+  title: "Get in touch"
+  text: "If you'd like to know more, please send a brief message outlining your interest and you'll be contacted shortly."
+  section: contact
+
 footer:
-    legal: "Privacy Policy"
-
-
+  legal: "Privacy Policy"
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
