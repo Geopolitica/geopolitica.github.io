@@ -1,6 +1,6 @@
 header:
   #title: Geopolitica
-  text: Data Engineering Meets Geopolitics
+  text: Data Science Meets Geopolitics
   button: Find Out More
   buttonlink: "#about" # "#{section}" or "URL/page link"
 
