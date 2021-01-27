@@ -1,12 +1,16 @@
 header:
   #title: Geopolitica
   text: Data Science Meets Geopolitics
-  button: Find Out More
-  buttonlink: "#about" # "#{section}" or "URL/page link"
+  # button: Find Out More
+  # buttonlink: "#about" # "#{section}" or "URL/page link"
 
 about:
-  title: "About The Project"
-  text: "Geopolitica was born out of curiosity and frustration: curiosity to build machine learning for geopolitics, and frustration with how little good data was available to do so. The project aims to apply modern data engineering techniques to political science, leading to the development of effective & dependable data pipelines for political analysis and machine learning. These developments will lead to innovative solutions for business and government."
+  title: "About Geopolitica"
+  text1: "Geopolitica was founded to bring online data to the center of political research. Online activity is influencing life in democracies more than ever before, yet political research methods are still largely characterized by time-consuming retrospective analyses of offline sources."
+  text2: "Geopolitica seeks to change this by developing data-driven applications that apply algorithms in real-time, resulting in data that greatly illuminates geopolitical events as they happen and trains machine learning algorithms to predict their future impact."
+  text3: "By looking to the future instead of the past, Geopolitica hopes to bring us closer to understanding global politics in a post-2016 world."
+  button: "Click Here for Demo"
+  buttonlink: "http://geopolitica-global-heatmap.herokuapp.com/" # "#{section}" or "URL/page link"
   section: about
 
 services:
