@@ -10,7 +10,7 @@ about:
   text2: "Geopolitica seeks to change this by developing data-driven applications that apply algorithms in real-time, resulting in data that greatly illuminates geopolitical events as they happen and trains machine learning algorithms to predict their future impact."
   text3: "By looking to the future instead of the past, Geopolitica hopes to bring us closer to understanding global politics in a post-2016 world."
   button: "Click Here for Demo"
-  buttonlink: "http://geopolitica-global-heatmap.herokuapp.com/" # "#{section}" or "URL/page link"
+  buttonlink: "https://geopolitica-dashboard.herokuapp.com/home" 
   section: about
 
 services:
