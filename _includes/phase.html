@@ -1,0 +1,21 @@
+<!-- phase -->
+<section class="page-section" id="{{ site.data.sitetext.phase.section | default: "phase" }}">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">{{ site.data.sitetext.phase.title | default: "phase Us" }}</h2>
+          <!-- <h3 class="section-subheading text-muted">{{ site.data.sitetext.phase.text | default: "" }}</h3> -->
+        </div>
+      </div>
+	  <div class="row">
+		<div class="col-lg-8 mx-auto text-center">
+		  <div class="large text-muted">{{ site.data.sitetext.phase.text1 | markdownify }}</div>
+      <div class="large text-muted">{{ site.data.sitetext.phase.text2 | markdownify }}</div>
+      <div class="large text-muted">{{ site.data.sitetext.phase.text3 | markdownify }}</div>
+      <br>
+      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext.phase.buttonlink }}">{{ site.data.sitetext.phase.button }}</a>
+		</div>
+	  </div>
+    </div>
+  </section>
+<!-- End phase -->

@@ -6,11 +6,11 @@ header:
 
 about:
   title: "About Geopolitica"
-  text1: "Geopolitica was founded to bring online data to the center of political research. Online activity is influencing life in democracies more than ever before, yet political research methods are still largely characterized by time-consuming retrospective analyses of offline sources."
-  text2: "Geopolitica seeks to change this by developing data-driven applications that apply algorithms in real-time, resulting in data that greatly illuminates geopolitical events as they happen and trains machine learning algorithms to predict their future impact."
-  text3: "By looking to the future instead of the past, Geopolitica hopes to bring us closer to understanding global politics in a post-2016 world."
-  button: "Click Here for Demo"
-  buttonlink: "http://geopolitica-global-heatmap.herokuapp.com/" # "#{section}" or "URL/page link"
+  text1: "Every second, millions of data points discussing world events are sent around the world. The volume of this data grows every year, yet human analysts are still tasked with distilling meaningful events from it, relying on intuition to evaluate their likely impact and publishing their findings before the situation changes."
+  text2: "This puts humans in a race against time that we are poised to lose."
+  text3: "Geopolitica aims to solve this problem by identifying major world events before their impact is felt. The platform monitors the news landscape in real-time, distills major events from it, automatically assigns new data to these events, and uses AI to predict their likely future impact. By automating most of the research process, humans can focus on interpreting and responding to the events as they unfold."
+  # button: "Click Here for Demo"
+  # buttonlink: "http://geopolitica-global-heatmap.herokuapp.com/" # "#{section}" or "URL/page link"
   section: about
 
 services:
@@ -30,8 +30,39 @@ services:
 
 contact:
   title: "Get in touch"
-  text: "If you'd like to know more, please send a brief message outlining your interest and you'll be contacted shortly."
+  text: "If you'd like to know more, please send a brief message outlining your interest and Geopolitica will contact you shortly."
   section: contact
+
+timeline:
+  title: "How It Works"
+  # text: "Features currently under development"
+  section: timeline
+  # left is the default
+  #start_align: "left"
+  events:
+    - title: "1. Data Mining"
+      desc: "Deploys web scrapers and external APIs to continually survey the news landscape and gather large amounts of data in real-time"
+      image: assets/img/timeline/sky.jpeg
+      alt:
+    - title: "2. Machine Learning"
+      desc: "Trains machine learning models to detect what human analysts search for and adds relevant texts to events with similar characteristics"
+      image: assets/img/timeline/storm.jpeg
+      alt:
+    - title: "3. Deep Learning"
+      desc: "Evaluates these events with AI and assigned a score predicting their future impact"
+      image: assets/img/timeline/lightning2.jpeg
+      alt: image alt text
+
+      # you can enforce the aligment
+      # align: right
+  # end: "The <br> sky's the <br> limit!"
+
+phase:
+  title: "Phase 1 is now live!"
+  text1: "Click the button to see how it's all coming together."
+  button: "Click Here for Demo"
+  buttonlink: "https://geopolitica-dashboard.herokuapp.com/home" # "#{section}" or "URL/page link"
+  section: about
 
 footer:
   legal: "Privacy Policy"
