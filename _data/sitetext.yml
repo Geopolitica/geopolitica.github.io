@@ -8,7 +8,7 @@ about:
   title: "About Geopolitica"
   text1: "Every second, millions of data points discussing world events are sent around the world. The volume of this data grows every year, yet human analysts are still tasked with distilling meaningful events from it, relying on intuition to evaluate their likely impact and publishing their findings before the situation changes."
   text2: "This puts humans in a race against time that we are poised to lose."
-  text3: "Geopolitica aims to solve this problem by identifying major world events before their impact is felt. The platform monitors the news landscape in real-time, distills major events from it, automatically assigns new data to these events, and uses AI to predict their likely future impact. By automating most of the research process, humans can focus on interpreting and responding to the events as they unfold."
+  text3: "Geopolitica aims to solve this problem by identifying major world events before their impact is felt. The platform monitors the news landscape in real-time, distills major events from it, automatically assigns new data to these events, and uses AI to predict their likely future impact. By automating most of the research process, humans can focus on interpreting and responding to major world events as they unfold."
   # button: "Click Here for Demo"
   # buttonlink: "http://geopolitica-global-heatmap.herokuapp.com/" # "#{section}" or "URL/page link"
   section: about
