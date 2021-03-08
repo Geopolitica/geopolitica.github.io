@@ -6,19 +6,11 @@ header:
 
 about:
   title: "About Geopolitica"
-<<<<<<< HEAD
   text1: "Every second, millions of data points discussing world events are sent around the world. The volume of this data grows every year, yet human analysts are still tasked with distilling meaningful events from it, relying on intuition to evaluate their likely impact and publishing their findings before the situation changes."
   text2: "This puts humans in a race against time that we are poised to lose."
   text3: "Geopolitica aims to solve this problem by identifying major world events before their impact is felt. The platform monitors the news landscape in real-time, distills major events from it, automatically assigns new data to these events, and uses AI to predict their likely future impact. By automating most of the research process, humans can focus on interpreting and responding to the events as they unfold."
   # button: "Click Here for Demo"
   # buttonlink: "http://geopolitica-global-heatmap.herokuapp.com/" # "#{section}" or "URL/page link"
-=======
-  text1: "Geopolitica was founded to bring online data to the center of political research. Online activity is influencing life in democracies more than ever before, yet political research methods are still largely characterized by time-consuming retrospective analyses of offline sources."
-  text2: "Geopolitica seeks to change this by developing data-driven applications that apply algorithms in real-time, resulting in data that greatly illuminates geopolitical events as they happen and trains machine learning algorithms to predict their future impact."
-  text3: "By looking to the future instead of the past, Geopolitica hopes to bring us closer to understanding global politics in a post-2016 world."
-  button: "Click Here for Demo"
-  buttonlink: "https://geopolitica-dashboard.herokuapp.com/home" 
->>>>>>> 044c3fac5e1bd57f21f4024538db10ad6c707ee5
   section: about
 
 services:
