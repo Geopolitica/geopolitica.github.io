@@ -45,11 +45,11 @@ timeline:
       image: assets/img/timeline/sky.jpeg
       alt:
     - title: "2. Machine Learning"
-      desc: "Trains machine learning models to detect what human analysts search for and adds relevant texts to events with similar characteristics"
+      desc: "Trains machine learning models to detect rapid changes in discourse and groups relevant texts into events with similar characteristics"
       image: assets/img/timeline/storm.jpeg
       alt:
     - title: "3. Deep Learning"
-      desc: "Evaluates these events with AI and assigned a score predicting their future impact"
+      desc: "Evaluates these events with AI and assigns a score predicting their future impact"
       image: assets/img/timeline/lightning2.jpeg
       alt: image alt text
 
